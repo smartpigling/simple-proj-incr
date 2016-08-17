@@ -1,0 +1,7 @@
+ =========================================
+ 
+ 
+ 
+ =========================================
+ :: Simple Project Incubator ::  (${application.version})
+ :: By Xiaochuan Tang
